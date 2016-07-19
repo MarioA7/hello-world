@@ -1,2 +1,3 @@
 # hello-world
-Bored.
+Hello,
+I have no idea what the hell I'm doing!
